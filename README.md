@@ -21,3 +21,17 @@ because enum rollNumber will create lot of javaScript code while compiling (whil
 example. set name(n): string {} not allowed to give string return type.
 
 correct way : set name(n){}
+
+--------------------------------------------------------------
+
+3) In typescript 
+
+public means we can access property in every in the code.
+
+private means we can access property within the class only.
+
+protected means we can access property within the class and inherited class property also.
+
+
+--------------------------------------------------------------
+
