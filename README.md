@@ -16,3 +16,8 @@ because enum rollNumber will create lot of javaScript code while compiling (whil
 
 --------------------------------------------------------------
 
+2) In typescript for setter method we cannot give return type.
+
+example. set name(n): string {} not allowed to give string return type.
+
+correct way : set name(n){}
