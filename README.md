@@ -35,3 +35,4 @@ protected means we can access property within the class and inherited class prop
 
 --------------------------------------------------------------
 
+4) mixins support multiple class inheritance,  need to learn this . important topic. 
