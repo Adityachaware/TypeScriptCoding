@@ -26,7 +26,7 @@ correct way : set name(n){}
 
 3) In typescript 
 
-public means we can access property in every in the code.
+public means we can access property everywhere in the code.
 
 private means we can access property within the class only.
 
